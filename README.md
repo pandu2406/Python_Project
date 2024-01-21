@@ -1,25 +1,25 @@
 # Python_Project
 
-Tools : Google Colaboratory
-
-Assignment Details:
-Data types and data completeness
-Statistical summary
-Handling outliers
-Handling missing values
-Visual Exploratory Data Analysis
-
-Income distribution by age (Linear Regression)
-Education level Distribution by Income level (Histogram)
-Education level and life satisfaction (Pie Chart)
-Income and Satisfaction Level (Histogram)
-Statistical Hypothesis Testing
-
-Test for normality
-Graphical Method : Histogram plot
-Statistical Method : Shapiro test
-Rank Significance Tests
-Numerical variables : Mann-Whitney's test
-Rank Correlation Tests
-Numerical variables : Spearman test
+Tools : Google Colaboratory <br>
+<br>
+Assignment Details: <br>
+Data types and data completeness <br>
+Statistical summary <br>
+Handling outliers <br>
+Handling missing values <br>
+Visual Exploratory Data Analysis <br>
+<br>
+Income distribution by age (Linear Regression) <br>
+Education level Distribution by Income level (Histogram) <br>
+Education level and life satisfaction (Pie Chart) <br>
+Income and Satisfaction Level (Histogram) <br>
+Statistical Hypothesis Testing <br>
+<br>
+Test for normality <br>
+Graphical Method : Histogram plot <br>
+Statistical Method : Shapiro test <br>
+Rank Significance Tests <br>
+Numerical variables : Mann-Whitney's test <br>
+Rank Correlation Tests <br>
+Numerical variables : Spearman test <br>
 Categorical variables : Chi-square test
